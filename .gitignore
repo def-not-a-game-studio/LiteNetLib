@@ -57,7 +57,6 @@ artifacts/
 *_p.c
 *_i.h
 *.ilk
-*.meta
 *.obj
 *.pch
 *.pdb
@@ -226,3 +225,6 @@ ModelManifest.xml
 .idea/
 *.sln.iml
 **/*.vscode
+
+*.sln*
+*.csproj*
